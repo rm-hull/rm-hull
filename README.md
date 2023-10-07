@@ -13,6 +13,8 @@ Here's a small selection of personal projects I've got hosted in Github:
 * [8-bit Trip](https://github.com/rm-hull/8-bit-trip) - An experiment in webaudio.
   ![web-app](https://github.com/rm-hull/8-bit-trip/blob/main/doc/screenshot/web_app.png?raw=true)
 
+* [BYOK 3](https://github.com/rm-hull/byok3) - A Forth interpreter/compiler written in Scala with Cats.
+  ![screencast](https://raw.githubusercontent.com/rm-hull/byok3/master/screencast.svg)
 
 <!--
 **rm-hull/rm-hull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
