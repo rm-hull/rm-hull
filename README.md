@@ -9,6 +9,7 @@ Here's a small selection of personal projects I've got hosted in Github:
 * [Zaup 2.0](https://github.com/rm-hull/zaup2) - Another frontend app (also Typescript, React, Chakra) that
   displays imported TOTP codes. It is another "serverless" app - all the data is persisted in local storage
   (and AES encrypted)
+  ![screenshot](https://github.com/rm-hull/zaup2/blob/main/doc/screenshots/main.webp?raw=true)
 
 * [Asteroids](https://github.com/rm-hull/asteroids) - A golang implementation of the classic arcade game that
   cross-compiles into WASM so you can play it in a browser.
