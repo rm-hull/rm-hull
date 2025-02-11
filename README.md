@@ -2,6 +2,10 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
+* [WebGL Mandelbrot Renderer](https://github.com/rm-hull/mandelbrot) - A small frontend app written in Typescript
+  using React and WebGL to display the Mandelbrot set, deployed with Github Actions and hosted via Github Pages. 
+  ![maps-leisure](https://github.com/rm-hull/mandelbrot/blob/main/doc/screenshot.webp?raw=true)
+  
 * [UK Ordnance Survey maps](https://github.com/rm-hull/maps) - A small frontend app written in Typescript
   using React, Chakra UI and Leaflet.js, deployed with Github Actions and hosted via Github Pages. 
   ![maps-leisure](https://github.com/rm-hull/maps/blob/main/doc/screenshots/maps_leisure.webp?raw=true)
@@ -14,7 +18,6 @@ Here's a small selection of personal projects I've got hosted in Github:
 * [Asteroids](https://github.com/rm-hull/asteroids) - A golang implementation of the classic arcade game that
   cross-compiles into WASM so you can play it in a browser.
   ![screenshot](https://github.com/rm-hull/asteroids/blob/main/screenshot.png?raw=true)
-
 
 * [8-bit Trip](https://github.com/rm-hull/8-bit-trip) - An experiment in webaudio.
   ![web-app](https://github.com/rm-hull/8-bit-trip/blob/main/doc/screenshot/web_app.png?raw=true)
