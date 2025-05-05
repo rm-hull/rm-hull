@@ -4,12 +4,16 @@ Here's a small selection of personal projects I've got hosted in Github:
 
 * [WebGL Mandelbrot Renderer](https://github.com/rm-hull/mandelbrot) - A small frontend app written in Typescript
   using React and WebGL to display the Mandelbrot set, deployed with Github Actions and hosted via Github Pages. 
-  ![maps-leisure](https://github.com/rm-hull/mandelbrot/blob/main/doc/screenshot.webp?raw=true)
-  
+  ![screenshot](https://github.com/rm-hull/mandelbrot/blob/main/doc/screenshot.webp?raw=true)
+
+* [Calendar](https://github.com/rm-hull/calendar) - A single-page app written in Typescript
+  using React that just displays a calendar for the next 12 months, deployed with Github Actions and hosted via Github Pages. 
+  ![screenshot](https://github.com/rm-hull/calendar/blob/main/doc/screenshot.webp?raw=true)
+
 * [UK Ordnance Survey maps](https://github.com/rm-hull/maps) - A small frontend app written in Typescript
   using React, Chakra UI and Leaflet.js, deployed with Github Actions and hosted via Github Pages. 
   ![maps-leisure](https://github.com/rm-hull/maps/blob/main/doc/screenshots/maps_leisure.webp?raw=true)
-
+  
 * [Zaup 2.0](https://github.com/rm-hull/zaup2) - Another frontend app (also Typescript, React, Chakra) that
   displays imported TOTP codes. It is another "serverless" app - all the data is persisted in local storage
   (and AES encrypted)
