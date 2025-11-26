@@ -2,6 +2,12 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
+* [GPS Routes](https://github.com/rm-hull/gps-routes) - A modern, interactive web application designed for outdoor
+  enthusiasts to search, view, and explore GPS tracks. Whether you are planning a hike, a cycling trip, or a scenic
+  drive, GPS Routes provides a rich interface to visualize routes and their details. Deployed with Github Actions
+  and hosted via Github Pages. 
+  ![screenshot](https://github.com/rm-hull/gps-routes/blob/main/doc/screenshot.webp?raw=true)
+
 * [WebGL Mandelbrot Renderer](https://github.com/rm-hull/mandelbrot) - A small frontend app written in Typescript
   using React and WebGL to display the Mandelbrot set, where the calculations are offloaded to the GPU for better
   performance, deployed with Github Actions and hosted via Github Pages. 
