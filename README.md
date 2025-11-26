@@ -8,6 +8,12 @@ Here's a small selection of personal projects I've got hosted in Github:
   and hosted via Github Pages. 
   ![screenshot](https://github.com/rm-hull/gps-routes/blob/main/doc/screenshot.webp?raw=true)
 
+* [The Future](https://github.com/rm-hull/the-future) - A retro-futuristic terminal that predicts the future?
+  Its core feature is running a Large Language Model (LLM) entirely in the browser using WebGPU: it uses this
+  to splat out a spicy take on the distopian future we likely face...
+  ![screenshot](https://github.com/rm-hull/the-future/blob/main/doc/screenshot.webp?raw=true)
+
+
 * [WebGL Mandelbrot Renderer](https://github.com/rm-hull/mandelbrot) - A small frontend app written in Typescript
   using React and WebGL to display the Mandelbrot set, where the calculations are offloaded to the GPU for better
   performance, deployed with Github Actions and hosted via Github Pages. 
