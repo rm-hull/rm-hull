@@ -13,6 +13,11 @@ Here's a small selection of personal projects I've got hosted in Github:
   performance, deployed with Github Actions and hosted via Github Pages. 
   ![screenshot](https://github.com/rm-hull/mandelbrot/blob/main/doc/screenshot.webp?raw=true)
 
+* [GitHub PR Dashboard](https://github.com/rm-hull/github-pr-dashboard) - A streamlined, single-page application
+  designed to help developers manage their GitHub Pull Requests efficiently. Built with performance and usability
+  in mind, this dashboard provides a centralized view of your work across multiple repositories.
+  ![screenshot](https://github.com/rm-hull/github-pr-dashboard/blob/main/doc/screenshot.webp?raw=true)
+
 * [Calendar](https://github.com/rm-hull/calendar) - A simple single-page app written in Typescript using React that
   just displays a calendar for the next 12 months, deployed with Github Actions and hosted via Github Pages. Shows
   public holidays for your locale (if the data is present) and link  with a Wikimedia API to show events, births &
