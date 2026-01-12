@@ -4,7 +4,7 @@ Here's a small selection of personal projects I've got hosted in Github:
 
 * [DoT Block](https://github.com/rm-hull/dot-block) is a high-performance, caching, and filtering DNS-over-TLS (DoT)
   server written in Go. It acts as a secure DNS forwarder, encrypting your DNS queries and protecting you from advertisers,
-  trackers, and malicious domains. Primarily aimed at Android phone usage: add `dot.destructuring-bind.org` as your private
+  trackers, and malicious domains. Primarily aimed at Android phone usage: add `dns.hz.nbg1.destructuring-bind.org` as your private
   DNS provider.
   
 * [GPS Routes](https://github.com/rm-hull/gps-routes) - A modern, interactive web application designed for outdoor
