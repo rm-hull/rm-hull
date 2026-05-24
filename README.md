@@ -2,6 +2,11 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
+* [git-commit-summary](https://github.com/rm-hull/dot-block) is a command-line TUI that takes staged changes in
+  a git repository and generates a short description of the changes using LLMs (Google, OpenAP, OpenRouter, local
+  models are supported). Available to install via homebrew.
+  ![screenshot](https://github.com/rm-hull/git-commit-summary/blob/main/docs/screenshot.png?raw=true)
+  
 * [DoT Block](https://github.com/rm-hull/dot-block) is a high-performance, caching, and filtering DNS-over-TLS (DoT)
   server written in Go. It acts as a secure DNS forwarder, encrypting your DNS queries and protecting you from advertisers,
   trackers, and malicious domains. Primarily aimed at Android phone usage: add `dns.hz.nbg1.destructuring-bind.org` as your private
@@ -17,7 +22,6 @@ Here's a small selection of personal projects I've got hosted in Github:
   Its core feature is running a Large Language Model (LLM) entirely in the browser using WebGPU: it uses this
   to splat out a spicy take on the distopian future we likely face...
   ![screenshot](https://github.com/rm-hull/the-future/blob/main/doc/screenshot.webp?raw=true)
-
 
 * [WebGL Mandelbrot Renderer](https://github.com/rm-hull/mandelbrot) - A small frontend app written in Typescript
   using React and WebGL to display the Mandelbrot set, where the calculations are offloaded to the GPU for better
