@@ -2,7 +2,7 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
-* [git-commit-summary](https://github.com/rm-hull/dot-block) is a command-line TUI that takes staged changes in
+* [git-commit-summary](https://github.com/rm-hull/git-commit-summary/blob/main/README.md) is a command-line TUI that takes staged changes in
   a git repository and generates a short description of the changes using LLMs (Google, OpenAP, OpenRouter, local
   models are supported). Available to install via homebrew.
   ![screenshot](https://github.com/rm-hull/git-commit-summary/blob/main/docs/screenshot.png?raw=true)
