@@ -2,6 +2,11 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
+* [news-barge](https://github.com/rm-hull/news-barge/blob/main/README.md) is a clean mirror of news feeds designed
+  to eliminate insidious tracking and adtech. Pulls articles from RSS feeds or HTML lists, strips the noise, converts
+  to Markdown, and serves them as a static site without the baggage of the modern web.
+  ![screenshot](https://github.com/rm-hull/news-barge/blob/main/docs/screenshot.webp?raw=true)
+
 * [git-commit-summary](https://github.com/rm-hull/git-commit-summary/blob/main/README.md) is a command-line TUI that takes staged changes in
   a git repository and generates a short description of the changes using LLMs (Google Gemini, OpenAI, OpenRouter, local
   models are supported). Available to install via homebrew.
