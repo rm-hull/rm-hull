@@ -2,6 +2,10 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
+* [teams-cli](https://github.com/rm-hull/teams-cli/blob/main/README.md) is a A command-line tool for reading and searching
+  Microsoft Teams chats through the Microsoft Graph API, predominantly designed for agentic access.
+  ![screenshot](https://github.com/rm-hull/teams-cli/blob/main/docs/promo.webp?raw=true)
+  
 * [cf-tunnel-sync](https://github.com/rm-hull/cf-tunnel-sync/blob/main/README.md) is a Go daemon that keeps a Cloudflare Tunnel's
   ingress rules and DNS records in sync with Docker container labels. It is a lightweight clean-room re-implementation of DockFlare,
   without the Redis/email/auth/multi-container "feature expansion".
