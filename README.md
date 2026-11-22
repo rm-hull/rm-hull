@@ -2,7 +2,7 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
-* [teams-cli](https://github.com/rm-hull/teams-cli/blob/main/README.md) is a A command-line tool for reading and searching
+* [teams-cli](https://github.com/rm-hull/teams-cli/blob/main/README.md) is a command-line tool for reading and searching
   Microsoft Teams chats through the Microsoft Graph API, predominantly designed for agentic access.
   ![screenshot](https://github.com/rm-hull/teams-cli/blob/main/docs/promo.webp?raw=true)
   
