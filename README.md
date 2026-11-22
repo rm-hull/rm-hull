@@ -2,8 +2,9 @@
 
 Here's a small selection of personal projects I've got hosted in Github:
 
-* [cf-tunnel-sync] is a Go daemon that keeps a Cloudflare Tunnel's ingress rules and DNS records in sync with Docker container labels.
-  It is a lightweight clean-room re-implementation of DockFlare, without the Redis/email/auth/multi-container "feature expansion".
+* [cf-tunnel-sync](https://github.com/rm-hull/cf-tunnel-sync/blob/main/README.md) is a Go daemon that keeps a Cloudflare Tunnel's
+  ingress rules and DNS records in sync with Docker container labels. It is a lightweight clean-room re-implementation of DockFlare,
+  without the Redis/email/auth/multi-container "feature expansion".
   ![screenshot](https://github.com/rm-hull/cf-tunnel-sync/blob/main/docs/screenshot.webp?raw=true)
 
 * [news-barge](https://github.com/rm-hull/news-barge/blob/main/README.md) is a clean mirror of news feeds designed
